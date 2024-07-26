@@ -70,6 +70,7 @@ h2 {
 
   font-family: Verdana, serif;
   height: 500px;
+  width: 500px;
   overflow: scroll;
 }
 
@@ -95,7 +96,7 @@ h4 {
   display: flex;
   align-items: stretch;
   flex-direction: column;
-  height: 200px;
+  height: 150px;
   border: none;
   background-color: #422008;
 }
