@@ -34,7 +34,7 @@ h2 {
   background-color: #ed762f;
   cursor: pointer;
 
-  font-size: 25px;
+  font-size: 20px;
   font-family: Verdana, serif;
 
 }
@@ -53,7 +53,7 @@ h2 {
   align-items: center;
   background-color: #FFD9BD;
   border-style: solid;
-  border-width: 4px;
+  border-width: 2px;
   border-color: #CF8E5E;
   margin: 5px;
 }
@@ -84,7 +84,7 @@ h2 {
 
   font-family: Verdana, serif;
   text-align: center;
-  font-size: 13px;
+  font-size: 10px;
 }
 
 h4 {
@@ -92,7 +92,7 @@ h4 {
 
   font-family: Verdana, serif;
   text-align: center;
-  font-size: 13px;
+  font-size: 10px;
 }
 
 .strongcolorchange {
