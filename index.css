@@ -1,5 +1,6 @@
 body {
-  background-color: #fdf3ec;
+  background: #fdf3ec;
+  background: linear-gradient(#fdf3ec, #FADDCE);
 
 
 h1 {
