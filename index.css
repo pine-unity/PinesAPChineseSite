@@ -13,6 +13,11 @@ h2 {
   color: #8a4417;
 }
 
+h3 {
+  color: #fdf3ec;
+  border-color: #ed762f;
+}
+
 p {
   border-color: #f8dac1;
   color: #422008;
