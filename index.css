@@ -26,7 +26,7 @@ h3 {
   background-color: #ed762f;
 }
 
-p {
+p1 {
   color: #422008;
 
   border-style: solid;
@@ -34,6 +34,10 @@ p {
   border-width: 5px;
   border-color: #f8dac1;
   background-color: #f8dac1;
+}
+
+p2 {
+  color: #422008;
 }
 
 h4 {
