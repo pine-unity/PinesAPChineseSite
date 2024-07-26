@@ -68,7 +68,8 @@ h2 {
   background-color: #f8dac1;
 
   font-family: Verdana, serif;
-  overflow: auto;
+  height: 100px;
+  overflow: scroll;
 }
 
 .p2 {
