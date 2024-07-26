@@ -3,10 +3,6 @@ body {
 }
 
 h1 {
-  border-style: inset;
-  border-width: 5px;
-  border-color: #422008;
-  background-color: #422008;
   color: #fdf3ec;
   font-family: "EB Garamond", serif;
 }
@@ -16,23 +12,36 @@ h2 {
 }
 
 h3 {
-  border-style: solid;
-  border-radius: 5px;
-  border-width: 5px;
   color: #fdf3ec;
-  border-color: #ed762f;
-  background-color: #ed762f;
 }
 
 p {
-  border-style: solid;
-  border-radius: 5px;
-  border-width: 5px;
-  border-color: #f8dac1;
-  background-color: #f8dac1;
   color: #422008;
 }
 
 h4 {
   color: #8a4417;
+}
+
+.topheadingborder {
+  border-style: inset;
+  border-width: 5px;
+  border-color: #422008;
+  background-color: #422008;
+}
+
+.buttonborder {
+  border-style: solid;
+  border-radius: 5px;
+  border-width: 5px;
+  border-color: #ed762f;
+  background-color: #ed762f;
+}
+
+.paragraphborder {
+  border-style: solid;
+  border-radius: 5px;
+  border-width: 5px;
+  border-color: #f8dac1;
+  background-color: #f8dac1;
 }
