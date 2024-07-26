@@ -69,7 +69,7 @@ h2 {
   background-color: #f8dac1;
 
   font-family: Verdana, serif;
-  height: 100px;
+  height: 500px;
   overflow: scroll;
 }
 
@@ -94,6 +94,7 @@ h4 {
 .bottomflex {
   display: flex;
   align-items: center;
+  flex-direction: column;
   border: none;
   background-color: #422008;
 }
