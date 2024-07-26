@@ -17,6 +17,7 @@ h2 {
 
 h3 {
   border-style: solid;
+  border-radius: 5px;
   border-width: 5px;
   color: #fdf3ec;
   border-color: #ed762f;
@@ -25,6 +26,7 @@ h3 {
 
 p {
   border-style: solid;
+  border-radius: 5px;
   border-width: 5px;
   border-color: #f8dac1;
   background-color: #f8dac1;
