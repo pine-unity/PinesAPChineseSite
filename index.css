@@ -35,7 +35,8 @@ h2 {
   font-size: 30px;
   font-family: serif;
 
-  text-align: center;
+  display: block;
+  margin: auto;
 }
 
 .button:hover
