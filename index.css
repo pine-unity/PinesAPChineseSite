@@ -35,7 +35,7 @@ h2 {
   font-size: 30px;
   font-family: serif;
 
-  display: block;
+  display: inline-block;
   margin: auto;
 }
 
