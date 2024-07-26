@@ -35,8 +35,6 @@ h2 {
   font-size: 30px;
   font-family: serif;
 
-  display: inline-block;
-  margin: auto;
 }
 
 .button:hover
@@ -46,6 +44,12 @@ h2 {
   border-width: 4px;
   border-radius: 5px;
   border-style: solid;
+}
+
+.buttoncontainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 
 .p1 {
