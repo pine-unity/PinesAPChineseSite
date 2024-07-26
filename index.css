@@ -93,8 +93,9 @@ h4 {
 
 .bottomflex {
   display: flex;
-  align-items: center;
+  align-items: stretch;
   flex-direction: column;
+  height: 200px;
   border: none;
   background-color: #422008;
 }
