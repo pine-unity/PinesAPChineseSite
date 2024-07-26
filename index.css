@@ -3,6 +3,8 @@ body {
 }
 
 h1 {
+  border-style: inset;
+  border-width: 5px;
   border-color: #422008;
   color: #fdf3ec;
   font-family: "EB Garamond", serif;
@@ -13,11 +15,15 @@ h2 {
 }
 
 h3 {
+  border-style: solid;
+  border-width: 5px;
   color: #fdf3ec;
   border-color: #ed762f;
 }
 
 p {
+  border-style: solid;
+  border-width: 5px;
   border-color: #f8dac1;
   color: #422008;
 }
