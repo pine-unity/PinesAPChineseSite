@@ -51,6 +51,7 @@ h2 {
 .buttoncontainer {
   display: flex;
   align-items: center;
+  background-color: #FFD9BD;
 }
 
 .img1 {
@@ -73,31 +74,26 @@ h2 {
 }
 
 .p2 {
-  color: #422008;
+  color: #fdf3ec;
 
   font-family: Verdana, serif;
   text-align: center;
-
-  background-color: #fdf3ec;
-  border-style: solid;
-  border-radius: 5px;
-  border-width: 5px;
-  border-color: #fdf3ec;
 }
 
 h4 {
-  color: #8a4417;
+  color: #fdf3ec;
 
   font-family: Verdana, serif;
   text-align: center;
-
-  background-color: #fdf3ec;
-  border-style: solid;
-  border-radius: 5px;
-  border-width: 5px;
-  border-color: #fdf3ec;
 }
 
 .strongcolorchange {
   color: #ed762f;
+}
+
+.bottomflex {
+  display: flex;
+  align-items: center;
+  border: none;
+  background-color: #422008;
 }
