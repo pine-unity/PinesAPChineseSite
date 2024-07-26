@@ -53,6 +53,11 @@ h2 {
   align-items: center;
 }
 
+.img1 {
+  float: right;
+  margin-left: 20px;
+}
+
 .p1 {
   color: #422008;
 
@@ -63,15 +68,10 @@ h2 {
   background-color: #f8dac1;
 
   font-family: Verdana, serif;
-}
-
-.img1 {
-  float: right;
-  margin-left: 20px;
+  overflow: hidden;
 }
 
 .p2 {
-  overflow: hidden;
   color: #422008;
 
   font-family: Verdana, serif;
