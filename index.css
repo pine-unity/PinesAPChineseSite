@@ -120,7 +120,7 @@ h4 {
   bottom: 0px;
   width: 100vw;
   
-  flex-direction: column;
+ /* flex-direction: column; */
   border: none;
   background-color: #0e2340;
 }
