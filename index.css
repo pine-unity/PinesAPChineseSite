@@ -136,8 +136,9 @@ h4 {
   display: flex;
   width: 100%;
 
-  border: none;
-  background-color: #0e2340;
+  border-style: solid;
+  border-width: 1px;
+  background-color: #0e2441;
 
   justify-content: center;
 
