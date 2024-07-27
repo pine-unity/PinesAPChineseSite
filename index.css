@@ -120,7 +120,7 @@ h4 {
 
 .bottomflex {
   display: flex;
-  /*position: absolute;*/
+  position: absolute;
   bottom: 0px;
   width: 100vw;
   
@@ -128,7 +128,6 @@ h4 {
   border: none;
   background-color: #0e2340;
 
-  align-items: center;
 
   justify-content: center;
 }
