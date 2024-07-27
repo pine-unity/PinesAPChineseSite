@@ -14,7 +14,8 @@ h1 {
   border-color: #0e2441;
   background-color: #0e2441;
 
-  width: 105vw;
+  width: 100vw;
+  top: 0px;
 
   text-align: center;
 }
@@ -62,10 +63,16 @@ h2 {
   justify-content: space-between;
 }
 
-.img1 {
-  /*float: right;*/
+/*.img1 {
+  float: right;
   margin: 10px;
   position: absolute;
+}*/
+
+.textandimgflex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .p1 {
@@ -108,7 +115,7 @@ h4 {
   display: flex;
   position: absolute;
   bottom: 0px;
-  width: 105vw;
+  width: 100vw;
   
   flex-direction: column;
   border: none;
