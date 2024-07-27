@@ -119,7 +119,7 @@ h4 {
 
 .bottomflex {
   display: flex;
-  position: absolute;
+  /*position: absolute;*/
   bottom: 0px;
   width: 100vw;
   
