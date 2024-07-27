@@ -128,7 +128,7 @@ h4 {
 /* leaving space for the footer in case content doesn't fill up the page, allows for footer to be seen when the viewport is only 100% due to small content */
 /* includes content that is NOT the footer and adds some space for the footer just in case as stated above */
 .contentwrapper {
-  padding-bottom: 3rem;
+  padding-bottom: 6rem;
 }
 
 /* footer is pushed to the bottom of pgcontain */
@@ -136,7 +136,7 @@ h4 {
   display: flex;
   position:absolute;
   width: 100%;
-  height: 3rem;
+  height: 6rem;
   bottom:0;
 
   border: none;
