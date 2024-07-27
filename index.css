@@ -118,7 +118,7 @@ h4 {
   color: #3a7ce6;
 }
 
-/* contains **everything** on the page */
+/* contains **everything** on the page, this is here so that the children's positioning aren't affected by other elements/viewport, i think */
 .pgcontain {
   position: relative;
   min-height: 100vh;
