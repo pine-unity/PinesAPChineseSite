@@ -1,18 +1,18 @@
 body {
-  background: #fdf3ec;
+  background: #eef5fd;
  /* background: linear-gradient(#fdf3ec, #FF9D68); */
 
 
 h1 {
-  color: #fdf3ec;
+  color: #eef5fd;
   font-family: Garamond, Georgia, serif;
   font-size: 55px;
   font-weight: bold;
 
   border-style: solid;
   border-width: 5px;
-  border-color: #422008;
-  background-color: #422008;
+  border-color: #0e2441;
+  background-color: #0e2441;
 
   width: 100vw;
   position: absolute;
@@ -22,20 +22,20 @@ h1 {
 }
 
 h2 {
-  color: #8a4417;
+  color: #204985;
 
   font-family: Verdana, serif;
   font-size: 35px;
 }
 
 .button {
-  color: #fdf3ec;
+  color: #eef5fd;
 
   border-style: solid;
   border-radius: 5px;
   border-width: 5px;
-  border-color: #ed762f;
-  background-color: #ed762f;
+  border-color: #3a7ce6;
+  background-color: #3a7ce6;
   cursor: pointer;
 
   font-size: 20px;
@@ -45,8 +45,8 @@ h2 {
 
 .button:hover
 {
-  background: #d5611c;
-  border-color: #d5611c;
+  background: #326ece;
+  border-color: #326ece;
   border-width: 4px;
   border-radius: 5px;
   border-style: solid;
@@ -55,7 +55,7 @@ h2 {
 .buttoncontainer {
   display: flex;
   /*align-items: center;*/
-  background-color: #FFD9BD;
+  background-color: #c8ddf8;
   /*border-style: solid;
   border-width: 20px;
   border-color: #FFD9BD;*/
@@ -68,14 +68,14 @@ h2 {
 }
 
 .p1 {
-  color: #422008;
+  color: #0e2340;
   font-size: 20px;
 
   border-style: solid;
   border-radius: 5px;
   border-width: 5px;
-  border-color: #f8dac1;
-  background-color: #f8dac1;
+  border-color: #c8ddf8;
+  background-color: #c8ddf8;
 
   font-family: Verdana, serif;
   height: 500px;
@@ -84,7 +84,7 @@ h2 {
 }
 
 .p2 {
-  color: #fdf3ec;
+  color: #eef5fd;
 
   font-family: Verdana, serif;
   text-align: center;
@@ -92,7 +92,7 @@ h2 {
 }
 
 h4 {
-  color: #fdf3ec;
+  color: #eef5fd;
 
   font-family: Verdana, serif;
   text-align: center;
@@ -100,7 +100,7 @@ h4 {
 }
 
 .strongcolorchange {
-  color: #ed762f;
+  color: #3a7ce6;
 }
 
 .bottomflex {
@@ -111,5 +111,5 @@ h4 {
   
   flex-direction: column;
   border: none;
-  background-color: #422008;
+  background-color: #0e2340;
 }
