@@ -53,6 +53,8 @@ h2 {
 .buttoncontainer {
   display: flex;
   align-items: center;
+  padding-right: 10px;
+  padding-left: 10px;
   background-color: #c8ddf8;
   border-style: solid;
   border-width: 20px;
