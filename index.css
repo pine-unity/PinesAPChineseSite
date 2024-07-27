@@ -56,9 +56,9 @@ h2 {
   display: flex;
   /*align-items: center;*/
   background-color: #FFD9BD;
-  border-style: solid;
+  /*border-style: solid;
   border-width: 20px;
-  border-color: #FFD9BD;
+  border-color: #FFD9BD;*/
   justify-content: space-between;
 }
 
