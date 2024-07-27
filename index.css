@@ -124,7 +124,7 @@ h4 {
   bottom: 0px;
   width: 100vw;
 
-  margin-top: auto;
+  margin-bottom: 100%;
   
  /* flex-direction: column; */
   border: none;
