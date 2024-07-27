@@ -101,6 +101,8 @@ h4 {
 
 .bottomflex {
   display: flex;
+  position: absolute;
+  bottom: 0px;
   
   flex-direction: column;
   border: none;
