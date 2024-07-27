@@ -64,11 +64,11 @@ h2 {
   justify-content: space-between;
 }
 
-/*.img1 {
-  float: right;
-  margin: 10px;
-  position: absolute;
-}*/
+img1 {
+ /* float: right; */
+  margin-left: 5px;
+/* position: absolute; */
+}
 
 .textandimgflex {
   display: flex;
@@ -77,6 +77,8 @@ h2 {
 }
 
 .p1 {
+  margin-right: 5px;
+  
   color: #0e2340;
   font-size: 20px;
 
