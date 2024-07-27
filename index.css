@@ -123,6 +123,8 @@ h4 {
   /*position: absolute;*/
   bottom: 0px;
   width: 100vw;
+
+  margin-top: auto;
   
  /* flex-direction: column; */
   border: none;
