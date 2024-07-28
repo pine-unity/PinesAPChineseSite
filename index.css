@@ -148,6 +148,7 @@ h4 {
   border-width: 1px;
   background-color: #0e2441;
 
+  flex-direction: column;
   align-items: center;
   justify-content: center;
 
