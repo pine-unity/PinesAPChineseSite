@@ -140,7 +140,7 @@ h4 {
 }
 
 /* footer is pushed to the bottom of pgcontain */
-#main-container footer {
+#wholepgcontain footer {
   display: flex;
   width: 100%;
 
