@@ -159,9 +159,9 @@ h4 {
 }
 
 .centercontent {
-  align-items:center;
-  display:flex;
-  flex-type:column;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
 }
-
+ 
 
