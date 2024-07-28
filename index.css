@@ -3,7 +3,7 @@ body {
  /* background: linear-gradient(#fdf3ec, #FF9D68); */
 
 
-.h1 {
+#wholepagecontain h1 {
   color: #eef5fd;
   font-family: Garamond, Georgia, serif;
   font-size: 55px;
@@ -123,7 +123,7 @@ h4 {
   width: 100%;
   display: flex;
   flex-direction: column;
-  align-items: center;
+  /* align-items: center; */
 }
 
 /* leaving space for the footer in case content doesn't fill up the page, allows for footer to be seen when the viewport is only 100% due to small content */
@@ -134,7 +134,7 @@ h4 {
   padding: 50px 30px;
   display: flex;
   flex-direction: column;
-  align-items: center;
+ /* align-items: center; */
 }
 
 /* footer is pushed to the bottom of pgcontain */
