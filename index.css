@@ -22,9 +22,10 @@ h1 {
   border-color: #0e2441;*/
   background-color: #0e2441;
 
-  width: 100vw;
+  min-width: 100vw;
+  max-width: 1366px;
   top: 0px;
-  left:0px;
+  left: 0px;
   
   
 
@@ -146,6 +147,8 @@ h4 {
 #wholepgcontain footer {
   display: flex;
   width: 100%;
+  min-width: 100vw;
+  max-width: 1366px;
 
   height:300px;
   border-style: solid;
