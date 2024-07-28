@@ -2,8 +2,16 @@ body {
   background: #eef5fd;
  /* background: linear-gradient(#fdf3ec, #FF9D68); */
 
+/* contains **everything** on the page, this is here so that the children's positioning aren't affected by other elements/viewport, i think */
+#wholepgcontain {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  height:100vh; 
+}
 
-#wholepagecontain h1 {
+#wholepgcontain h1 {
   color: #eef5fd;
   font-family: Garamond, Georgia, serif;
   font-size: 55px;
@@ -116,15 +124,6 @@ h4 {
 
 .strongcolorchange {
   color: #3a7ce6;
-}
-
-/* contains **everything** on the page, this is here so that the children's positioning aren't affected by other elements/viewport, i think */
-#wholepgcontain {
-  width: 100%;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  height:100vh; 
 }
 
 /* leaving space for the footer in case content doesn't fill up the page, allows for footer to be seen when the viewport is only 100% due to small content */
