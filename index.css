@@ -2,6 +2,14 @@ body {
   background: #0e2441;
 
 
+
+.raleway-class {
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+}
+
 /* contains **everything** on the page, this is here so that the children's positioning aren't affected by other elements/viewport, i think */
 #wholepgcontain {
   width: 100%;
@@ -14,11 +22,16 @@ body {
 
 h1 {
   color: #eef5fd;
-  font-family: Garamond, Georgia, serif;
-  font-size: 55px;
-  font-weight: bold;
 
-  /*\border-style: solid;
+  font-family: "Raleway", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 800;
+  font-style: normal;
+  /*font-family: Garamond, Georgia, serif;
+  font-size: 55px;
+  font-weight: bold;*/
+
+  /*border-style: solid;
   border-width: 5px;
   border-color: #0e2441;*/
   background-color: #0e2441;
