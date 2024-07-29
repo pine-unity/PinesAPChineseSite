@@ -22,12 +22,13 @@ body {
 #head1flex {
   display: flex;
   justify-content: center;
-  position: absolute;
-  top: 0px
+  
+  
   
   background-color: #0e2441;
   height:10vh;
   width: 100vw;
+  margin:auto;
 }
   
 h1 {
