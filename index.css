@@ -1,5 +1,6 @@
 body {
   background: #0e2441;
+  
  /* background: linear-gradient(#fdf3ec, #FF9D68); */
 
 /* contains **everything** on the page, this is here so that the children's positioning aren't affected by other elements/viewport, i think */
@@ -11,13 +12,6 @@ body {
   height:100vh; 
 }
 
-#head1flex {
-  max-height:150px;
-  width:auto;
-  background-color: #0e2441;
-  margin: auto;
-
-}
 
 h1 {
   color: #eef5fd;
@@ -29,10 +23,10 @@ h1 {
   border-width: 5px;
   border-color: #0e2441;*/
   background-color: #0e2441;
-  width:100vw;
-  
+  height:10vh;
+  width: 100vw;
 
-  
+  position: absolute;
   top: 0px;
   /*left: 0px;*/
   
@@ -40,6 +34,7 @@ h1 {
   
 
   text-align: center;
+  margin: auto;
   
 }
 
@@ -78,18 +73,30 @@ h2 {
 
 .buttoncontainer {
   display: flex;
-  align-items: center;
+  /*align-items: center;*/
   
   background-color: #c8ddf8;
   border-style: solid;
   border-width: 20px;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
   border-color: #c8ddf8;
   justify-content: space-between;
-  max-width:1450px;
-  /*width:100%;*/
-  /*min-width: 100vw;*/
+
+  
+  position: absolute;
+  top:10vh;
+  
   
 }
+
+#navbuttoncontain {
+  display: flex;
+  justify-content: center;
+  min-width: 100vw;
+}
+
+
 
 
 .img1 {
@@ -103,7 +110,7 @@ h2 {
   align-items: center;
   justify-content: center;
 
-  margin-bottom: 5px;
+  margin-top: 5vh;
 }
 
 .p1 {
@@ -155,6 +162,7 @@ h4 {
   flex-direction: column;
  /* align-items: center; */
  background-color: #eef5fd;
+ 
   
 }
 
