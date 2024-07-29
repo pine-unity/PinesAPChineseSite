@@ -89,7 +89,8 @@ h2 {
   font-family: Verdana, serif;
   width: 20vw;
   box-shadow: -4px 4px 3px #0A498A;
-
+  -webkit-text-stroke-width: 3px;
+  -webkit-text-stroke-color: #052342;
 }
 
 .button:hover
