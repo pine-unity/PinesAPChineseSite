@@ -61,7 +61,7 @@ h1 {
 
   text-align: center;
   margin: auto;
-  text-shadow: -2px -2px 4px #007DFF, 2px 2px 2px #85C1FF;
+  text-shadow: -4px -4px 5px #007DFF, 4px 4px 3px #85C1FF;
   
 }
 
@@ -86,6 +86,7 @@ h2 {
   font-size: 20px;
   font-family: Verdana, serif;
   width: 20vw;
+  box-shadow: -4px -4px 5px #007DFF, 4px 4px 3px #85C1FF;
 
 }
 
@@ -96,6 +97,7 @@ h2 {
   border-width: 4px;
   border-radius: 5px;
   border-style: solid;
+  box-shadow: -3px -3px 5px #007DFF, 3px 3px 3px #85C1FF;
 }
 
 .buttoncontainer {
@@ -131,6 +133,7 @@ h2 {
   margin-left: calc(100vw/100);
   margin-right: 5vw;
 /* position: absolute; */
+  box-shadow: -4px -4px 5px #007DFF, 4px 4px 3px #85C1FF;
 }
 
 .textandimgflex {
@@ -158,6 +161,7 @@ h2 {
   height: 50vh;
   width: 50vw;
   overflow: scroll;
+  box-shadow: -4px -4px 5px #007DFF, 4px 4px 3px #85C1FF;
 }
 
 .p2 {
