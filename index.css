@@ -1,5 +1,5 @@
 body {
-  background: #eef5fd;
+  background: #0e2441;
  /* background: linear-gradient(#fdf3ec, #FF9D68); */
 
 /* contains **everything** on the page, this is here so that the children's positioning aren't affected by other elements/viewport, i think */
@@ -21,10 +21,12 @@ h1 {
   border-width: 5px;
   border-color: #0e2441;*/
   background-color: #0e2441;
+  width:calc(100vw);
 
   
   top: 0px;
   /*left: 0px;*/
+  
   
   
 
@@ -136,23 +138,25 @@ h4 {
 #contentcontain {
   width:100%;
   flex-grow: 1;
-  max-width: 1366px;
+  max-width: 1600px;
   /*padding: 50px 30px;*/
   display: flex;
   flex-direction: column;
  /* align-items: center; */
+ background-color: #eef5fd;
+  
 }
 
 /* footer is pushed to the bottom of pgcontain */
 #wholepgcontain footer {
   display: flex;
   width: 100%;
-  min-width: 100vw;
+  /*min-width: 100vw;*/
  /* max-width: 1366px; */
 
   height:300px;
-  border-style: solid;
-  border-width: 1px;
+  /*border-style: solid;
+  border-width: 0px;*/
   background-color: #0e2441;
 
   flex-direction: column;
@@ -167,8 +171,11 @@ h4 {
   /*align-items: center;*/
   min-width: 100vw;
   width: 100%;
-  max-width: 1366px;
+  max-width: 1600px; 
+
   justify-content: center;
+  
+  
 }
  
 
