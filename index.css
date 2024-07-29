@@ -62,6 +62,8 @@ h1 {
   text-align: center;
   margin: auto;
   text-shadow: -4px -4px 5px #007DFF, 4px 4px 3px #85C1FF;
+  -webkit-text-stroke-width: 3px;
+  -webkit-text-stroke-color: #000D1A;
   
 }
 
@@ -143,7 +145,7 @@ h2 {
   justify-content: center;
 
  /* margin-top: 10vh; */
-  margin-top: 20%;
+  margin-top: 30%;
 }
 
 .p1 {
