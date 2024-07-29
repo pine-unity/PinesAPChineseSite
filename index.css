@@ -1,11 +1,6 @@
 body {
   background: #0e2441;
-  
-* {
-  margin:0;
-  padding: 0;
-  box-sizing: border-box;
-}
+
 
 /* contains **everything** on the page, this is here so that the children's positioning aren't affected by other elements/viewport, i think */
 #wholepgcontain {
