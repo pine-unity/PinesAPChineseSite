@@ -114,7 +114,8 @@ h2 {
 
   
   position: absolute;
-  top:10vh;
+  /*top:10vh;*/
+  top: 50%;
   
   
 }
