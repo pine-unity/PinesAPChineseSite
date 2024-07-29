@@ -11,17 +11,26 @@ body {
   height:100vh; 
 }
 
+#head1flex {
+  max-height:150px;
+  width:auto;
+  background-color: #0e2441;
+  margin: auto;
+
+}
+
 h1 {
   color: #eef5fd;
   font-family: Garamond, Georgia, serif;
   font-size: 55px;
   font-weight: bold;
 
-  /*border-style: solid;
+  /*\border-style: solid;
   border-width: 5px;
   border-color: #0e2441;*/
   background-color: #0e2441;
-  width:calc(100vw);
+  width:100vw;
+  
 
   
   top: 0px;
@@ -70,13 +79,15 @@ h2 {
 .buttoncontainer {
   display: flex;
   align-items: center;
-  /*padding-right: 10px;
-  padding-left: 10px;*/
+  padding-right: 10px;
+  /*padding-left: 10px;*/
   background-color: #c8ddf8;
   border-style: solid;
   border-width: 20px;
   border-color: #c8ddf8;
   justify-content: space-between;
+  max-width:1440px;
+  width:100%;
   
 }
 
