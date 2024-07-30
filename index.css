@@ -75,7 +75,7 @@ h2 {
   font-family: Verdana, serif;
   font-size: 35px;
   position: absolute;
-  top: 7.5vh;
+  top: 75px;
   text-align: center;
 }
 
@@ -138,7 +138,7 @@ h2 {
 
 .img1 {
  /* float: right; */
-  margin-left: calc(100vw/10000);
+  margin-left: 0;
   margin-right: 5vw;
 /* position: absolute; */
   box-shadow: -3px 3px 5px #0A498A;
@@ -151,14 +151,14 @@ h2 {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-top:15vh;
+  margin-top:150px;
   
   
 }
 
 .p1 {
   margin-left: 5vw;
-  margin-right: 1vw;
+  margin-right: 0.5vw;
   
   color: #0e2340;
   font-size: 20px;
