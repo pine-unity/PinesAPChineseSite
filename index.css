@@ -28,7 +28,7 @@ body {
   background-color: #0e2441;
   height:10vh;
   width: 100vw;
-  margin:auto;
+  margin: auto;
 }
   
 h1 {
@@ -75,7 +75,7 @@ h2 {
   font-family: Verdana, serif;
   font-size: 35px;
   position: absolute;
-  top: 75px;
+  top: 82px;
   text-align: center;
 }
 
@@ -121,6 +121,7 @@ h2 {
 
   
   position: absolute;
+  bottom: 79.8vh;
   
   
   
@@ -130,7 +131,7 @@ h2 {
 #navbuttoncontain {
   display: flex;
   justify-content: center;
-  min-width: 100vw;
+  
 }
 
 
@@ -151,7 +152,7 @@ h2 {
   display: flex;
   align-items: center;
   justify-content: center;
-  margin-top:150px;
+  margin-top:75px;
   
   
 }
@@ -236,6 +237,7 @@ h4 {
   min-width: 100vw;
   width: 100%;
   max-width: 1600px; 
+  height: 90vh;
 
   justify-content: center;
   position: relative;
