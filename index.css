@@ -68,7 +68,7 @@ h2 {
   font-size: 35px;
   position: absolute;
   /*top:10vh;*/
-  top:80px;
+  top:90px;
   text-align: center;
 }
 
@@ -141,8 +141,9 @@ h2 {
   align-items: center;
   justify-content: center;
   position: absolute;
+  width:100vw;
   /*top:20vh;*/
-  top:160px;
+  top:180px;
   
   
   
