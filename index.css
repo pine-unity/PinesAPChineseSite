@@ -47,13 +47,15 @@ h1 {
   border-width: 5px;
   border-color: #0e2441;*/
   background-color: #0e2441;
-  height:10vh;
-  width: 100vw;
-  padding-top: 1vh;
+  
+  
+  
   
 
   position: absolute;
-  top: 0px;
+  top: 1%;
+  margin:auto;
+
   /*left: 0px;*/
   
   
