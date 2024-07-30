@@ -47,7 +47,7 @@ h1 {
   border-width: 5px;
   border-color: #0e2441;*/
   background-color: #0e2441;
-  height:5vh;
+  height:10vh;
   width: 100vw;
   padding-top: 5vh;
   
@@ -117,7 +117,7 @@ h2 {
 
   
   position: absolute;
-  top:10vh;
+  top:15vh;
   
   
   
@@ -146,7 +146,7 @@ h2 {
   justify-content: center;
 
  /* margin-top: 10vh; */
-  margin-top: 30%;
+  margin-top: 7%;
 }
 
 .p1 {
