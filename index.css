@@ -68,7 +68,7 @@ h2 {
   font-size: 35px;
   position: absolute;
   /*top:10vh;*/
-  top:90px;
+  top:100px;
   text-align: center;
 }
 
@@ -192,8 +192,9 @@ h4 {
 /* leaving space for the footer in case content doesn't fill up the page, allows for footer to be seen when the viewport is only 100% due to small content */
 /* includes content that is NOT the footer and adds some space for the footer just in case as stated above */
 #contentcontain {
-  min-width:100vw;
-  width:100%;
+ /* min-width:100vw;*/
+  min-width:99vw;
+  /*width:100%;*/
   flex-grow: 1;
   max-width: 1600px;
   /*padding: 50px 30px;*/
@@ -228,7 +229,7 @@ h4 {
   flex-direction: column;
   align-items: center;
   min-width: 100vw;
-  width: 100%;
+  /*width: 100%;*/
   max-width: 1600px; 
   height: 90vh;
 
