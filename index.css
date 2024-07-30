@@ -136,7 +136,7 @@ h2 {
 
 .img1 {
  /* float: right; */
-  margin-left: calc(100vw/100);
+  margin-left: calc(100vw/500);
   margin-right: 5vw;
 /* position: absolute; */
   box-shadow: -3px 3px 5px #0A498A;
