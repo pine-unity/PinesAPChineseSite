@@ -192,6 +192,7 @@ h4 {
 /* leaving space for the footer in case content doesn't fill up the page, allows for footer to be seen when the viewport is only 100% due to small content */
 /* includes content that is NOT the footer and adds some space for the footer just in case as stated above */
 #contentcontain {
+  min-width:100vw;
   width:100%;
   flex-grow: 1;
   max-width: 1600px;
