@@ -193,7 +193,7 @@ h4 {
 /* includes content that is NOT the footer and adds some space for the footer just in case as stated above */
 #contentcontain {
  /* min-width:100vw;*/
-  min-width:99.5vw;
+  min-width:99.4vw;
   /*width:100%;*/
   flex-grow: 1;
   max-width: 1600px;
