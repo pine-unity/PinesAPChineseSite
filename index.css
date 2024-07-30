@@ -47,6 +47,7 @@ h1 {
   border-width: 5px;
   border-color: #0e2441;*/
   background-color: #0e2441;
+  height:10vh;
   
   
   
@@ -121,18 +122,14 @@ h2 {
 
   
   position: absolute;
-  bottom: 79.8vh;
+  top: 0;
   
   
   
   
 }
 
-#navbuttoncontain {
-  display: flex;
-  justify-content: center;
-  
-}
+
 
 
 
