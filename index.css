@@ -134,6 +134,14 @@ h2 {
 
   max-height: 430px;
   min-height: auto;
+  
+  
+}
+
+img {
+  display: flex;
+  width:430px;
+  height:430px;
 }
 
 .textandimgflex {
