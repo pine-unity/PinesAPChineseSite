@@ -132,7 +132,7 @@ h2 {
 /* position: absolute; */
   box-shadow: -3px 3px 5px #0A498A;
 
-  max-height: 430px;
+  
   min-height: auto;
   
   
@@ -140,8 +140,8 @@ h2 {
 
 img {
   display: flex;
-  width:25vw;
-  height:25vw;
+  width:30vw;
+  height:30vw;
 }
 
 .textandimgflex {
@@ -159,7 +159,7 @@ img {
 
 .p1 {
   margin-left: 5vw;
-  margin-right: 0.5vw;
+  margin-right: 1vw;
   
   color: #0e2340;
   font-size: 20px;
