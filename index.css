@@ -140,8 +140,8 @@ h2 {
 
 img {
   display: flex;
-  width:430px;
-  height:430px;
+  width:25vw;
+  height:25vw;
 }
 
 .textandimgflex {
